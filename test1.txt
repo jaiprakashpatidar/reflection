@@ -1,0 +1,12 @@
+difference between git and github
+git status
+entire state of the repository changes
+branches
+commit
+messages
+push
+
+pull
+merges
+pull request
+conflict
